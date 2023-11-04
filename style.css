@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    margin: 0px;
+    background-color:antiquewhite
+}
+
+
+
+header a{
+    padding: 20px;
+    text-align: center;
+    position:static;
+    right: 200px;
+    
+}
+
+nav{
+    overflow: hidden;
+}
+nav a{
+    display: block;
+    padding: 60px;
+    font-size: 20px;
+    color:blue;
+    text-decoration: none;
+    float: left;
+}
+h1{
+    text-align:left;
+}
+h2{
+    text-align: left;
+}
+
+main h1{
+    text-align: center;
+}
+main h2{
+    padding: 0px;
+    text-align: center;
+}
+
+main h1 video{
+    text-align: center; 
+    color: blue;
+    padding: 50px; 
+}
+
+section{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    box-shadow: #33ccff;
+} 
+
+
+    
+
+
+ 

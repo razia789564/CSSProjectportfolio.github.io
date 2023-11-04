@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    margin: 0px;
+    background-color:pink blue;
+}
+
+
+nav h3 a {
+    overflow: hidden;
+    text-decoration: none;
+    padding: 50px;
+}
+
+fieldset{
+    padding-left: 50px;
+    padding-bottom: 50px;
+    background-color: gray;
+}
